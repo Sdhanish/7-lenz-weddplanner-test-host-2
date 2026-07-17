@@ -63,11 +63,11 @@ export default function Hero() {
 
   // Paste/Customize your Cloudinary image links in this array:
   const HERO_SLIDESHOW_IMAGES = [
+    "https://res.cloudinary.com/yfmkodp7/image/upload/v1784276257/hero-main_bdzxmo.jpg",
+    "https://res.cloudinary.com/yfmkodp7/image/upload/v1784275908/hero-5_btefhf.jpg",
     "https://res.cloudinary.com/yfmkodp7/image/upload/v1784276266/hero-1_qpxauv.jpg",
     "https://res.cloudinary.com/yfmkodp7/image/upload/v1784276263/hero-2_ltwbuy.jpg",
-    "https://res.cloudinary.com/yfmkodp7/image/upload/v1784276259/hero-3_gv4ago.jpg",
-    "https://res.cloudinary.com/yfmkodp7/image/upload/v1784276257/hero-main_bdzxmo.jpg",
-    "https://res.cloudinary.com/yfmkodp7/image/upload/v1784275908/hero-5_btefhf.jpg"
+    "https://res.cloudinary.com/yfmkodp7/image/upload/v1784276259/hero-3_gv4ago.jpg"
   ];
 
   // Media poster and video URLs loaded dynamically from Cloudinary Configuration with state fallbacks
