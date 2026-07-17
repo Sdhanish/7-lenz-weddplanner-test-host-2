@@ -1,0 +1,6 @@
+{
+  "name": "7 Lenz Wedd Planner",
+  "description": "Luxury wedding photography, cinematic films, and premium event coverage in Kerala. Crafting timeless memories through art and emotion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
